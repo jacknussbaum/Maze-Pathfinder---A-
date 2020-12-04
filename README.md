@@ -1,1 +1,1 @@
-# Maze-Pathfinder---A-
+# MazePathfinder-A-Star
